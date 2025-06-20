@@ -1,0 +1,30 @@
+#EXTM3U
+
+
+
+#EXTINF:0 group-title="MUNDIAL" group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24
+https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/canal_rural_ar.png" , Canal Rural
+https://metalgear.bemtv.cn/STREAM/11053/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tv_publica_ar.png" , TV Publica HD
+https://otakon.bemtv.cn/STREAM/11042/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/canal_26_ar.png" , 26TV
+https://otakon.bemtv.cn/STREAM/11055/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/c5n.png" , C5N
+https://metalgear.bemtv.cn/STREAM/7699/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/america_ar.png" , America HD
+https://otakon.bemtv.cn/STREAM/6564/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/todo_noticias.png" , Todo Noticias HD
+https://otakon.bemtv.cn/STREAM/6589/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_trece_internacional.png" , El Trece HD
+https://bigboss.bemtv.cn/STREAM/6563/playlist.m3u8
+
+#EXTINF:0 group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telefe_internacional_ar.png" ,Telefe HD
+https://bigboss.bemtv.cn/STREAM/6562/playlist.m3u8
