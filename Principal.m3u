@@ -1,3 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="canal1" group-title="MUNDIAL"
-https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/deportes.m3u
+https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Mundial.m3u
+
+#EXTINF:-1 tvg-id="canal1" group-title="MUNDIAL",Canal Mundial 1
+http://ejemplo.com/canal1.m3u8
+#EXTINF:-1 tvg-id="canal2" group-title="DEPORTES",Canal Deportes 1
+http://ejemplo.com/canal2.m3u8
+#EXTINF:-1 tvg-id="canal3" group-title="MUNDIAL",Canal Mundial 2
+http://ejemplo.com/canal3.m3u8
