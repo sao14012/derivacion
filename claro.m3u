@@ -3,25 +3,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png"  group-title="CLARO TV"",26TV
-http://201.217.246.177:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",A&E 
-http://201.217.246.177:8000/play/a05i/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="CLARO TV"",A24
-http://201.217.246.177:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Amsports.png" group-title="CLARO TV"",AM Sports
-http://201.217.246.177:8000/play/a01v/index.m3u8
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="CLARO TV"",AMC
-http://201.217.246.177:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="CLARO TV"",ARGENTINISIMA
-http://201.217.246.177:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="CLARO TV"",AXN HD
-http://201.217.246.177:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="CLARO TV"",Adult swim 
-http://201.217.246.177:8000/play/a0a5/index.m3u8
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="CLARO TV"",America TV 
-http://201.217.246.177:8000/play/a055/index.m3u8
-
-
+#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="CLARO TV",ESPN 2 
+http://201.217.246.177:8000/play/a059/index.m3u8
 
