@@ -6,12 +6,11 @@
 
 
 
-#EXTINF:-1 tvg-id="Canal" tvg-logo="" group-title="MUNDIAL" content-type="playlist", Mundial
+#EXTINF:-1 tvg-id="Canal1" tvg-logo="" group-title="MUNDIAL" content-type="playlist", Mundial
 https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Mundial.m3u
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="Canal2" tvg-logo="" group-title="FLOW OPCION 2" content-type="playlist", Flow OP2
+https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Flow%20Opcion%202.m3u
