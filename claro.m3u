@@ -100,26 +100,5 @@ http://201.217.246.177:8000/play/a030/index.m3u8
 http://201.217.246.177:8000/play/a05c/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="CLARO TV",Fox Sports 3 
 http://201.217.246.177:8000/play/a02t/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png" group-title="CLARO TV",Fox Sports 
-http://201.217.246.177:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",Galicia TV
-http://201.217.246.177:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO
-http://201.217.246.177:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO 2
-http://201.217.246.177:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO Family
-http://201.217.246.177:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO Mundi
-http://201.217.246.177:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO POP
-http://201.217.246.177:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO Plus
-http://201.217.246.177:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO Signature
-http://201.217.246.177:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HBO Xtreme
-http://201.217.246.177:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",HGTV
-http://201.217.246.177:8000/play/a02j/index.m3u8
+
 
