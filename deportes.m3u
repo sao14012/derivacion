@@ -1,15 +1,4 @@
 
-###################################    SALIO DE https://github.com/los3gatos/teroarg/blob/main/006.m3u      #################################
-
-
-
-
-
-
-
-
-
-#EXTM3U
 
 #EXTINF:0 group-title="MUNDIAL" group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24
 https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
