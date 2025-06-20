@@ -1,6 +1,6 @@
-#EXTM3U
 
 
+#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
 
 #EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png"  group-title="CLARO TV"",26TV
 http://201.217.246.177:8000/play/a01r/index.m3u8
@@ -128,3 +128,85 @@ http://201.217.246.177:8000/play/a0a7/index.m3u8
 http://201.217.246.177:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="CLARO TV",La Nacion TV
 http://201.217.246.177:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Lifetime
+http://201.217.246.177:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",MTV
+http://201.217.246.177:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",MTV×00
+http://201.217.246.177:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Metro
+http://201.217.246.177:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nat Geo 
+http://201.217.246.177:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nick Jr
+http://201.217.246.177:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nickelodeon
+http://201.217.246.177:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",PASIONES
+http://201.217.246.177:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Pakapaka
+http://201.217.246.177:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Paramount 
+http://201.217.246.177:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Quiero Musica
+http://201.217.246.177:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",RAI Italia
+http://201.217.246.177:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Rural
+http://201.217.246.177:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Somos Uno
+http://201.217.246.177:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Sony 
+http://201.217.246.177:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Sony Movies 
+http://201.217.246.177:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Space 
+http://201.217.246.177:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Star Channel 
+http://201.217.246.177:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Studio Universal
+http://201.217.246.177:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",T5 SATELITAL
+http://201.217.246.177:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TCM
+http://201.217.246.177:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TELEMUNDO
+http://201.217.246.177:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TLNovelas
+http://201.217.246.177:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TN 
+http://201.217.246.177:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT 
+http://201.217.246.177:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Novelas 
+http://201.217.246.177:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Series 
+http://201.217.246.177:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Sports 
+http://201.217.246.177:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TV Publica 
+http://201.217.246.177:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TVE
+http://201.217.246.177:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Telefe 
+http://201.217.246.177:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",The History Channel 
+http://201.217.246.177:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TyC Sports 
+http://201.217.246.177:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",USA Network
+http://201.217.246.177:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Universal 
+http://201.217.246.177:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Volver
+http://201.217.246.177:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Warner Channel 
+http://201.217.246.177:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",canal 8 san cosme
+http://201.217.246.177:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",ciudad magazine
+http://201.217.246.177:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",el nueve 
+http://201.217.246.177:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",el trece 
+http://201.217.246.177:8000/play/a06d/index.m3u8
