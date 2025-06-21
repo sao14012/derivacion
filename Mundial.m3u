@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Canal2" tvg-logo="" group-title="FLOW OPCION 2" content-type="playlist", Flow OP2
-https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Flow%20Opcion%202.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLAROTV" content-type="playlist", FLOW TV
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/R35P4L2
 
 
 #EXTINF:0 group-title="MUNDIAL" group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24
