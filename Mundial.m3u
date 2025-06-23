@@ -11057,7 +11057,12 @@ http://38.211.242.128:8001/play/a05h/index.m3u8
 
 
 
+#EXTINF:0 group-title="Conect Deportes" tvg-name="AR | DIRECTV SPORTS 2 FHD" tvg-logo="https://logo.iptveditor.com/directvsports2.png" cuid="5501",AR | DIRECTV SPORTS 2 FHD
+http://novabox.club/live/conectStreax/K2tbMNebMW/384296.m3u8
 
+
+#EXTINF:0 group-title="Conect Deportes" tvg-name="DIRECTV" tvg-logo="https://logo.iptveditor.com/tvdirect.png" cuid="5487",DIRECTV
+http://novabox.club/live/conectStreax/K2tbMNebMW/402217.m3u8
 
 
 
