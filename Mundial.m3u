@@ -1202,6 +1202,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="ALTERNATIVOS", El Trece
 http://138.121.114.50:8000/play/a06d/index.m3u8
 
+
+#EXTINF:-1 tvg-id="EL TRECE" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/sao14012/cli/main/logos/logosao.png" group-title="ALTERNATIVOS", ElTrece (publicidad)
+http://201.217.246.177:8000/play/a06d/index.m3u8
+
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="ALTERNATIVOS", Net TV
 http://186.0.248.113:8000/play/a0bs/index.m3u8
 
@@ -5664,6 +5668,12 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="C-C", El Nueve
 http://190.123.90.146:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="EL TRECE" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/sao14012/cli/main/logos/logosao.png" group-title="C-C", ElTrece (publicidad)
+http://201.217.246.177:8000/play/a06d/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="C-C", América
 http://190.123.90.146:8000/play/a00l/index.m3u8
 
@@ -9395,7 +9405,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chil
 #EXTINF:-1 tvg-chno="813" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/24TVN.png" tvg-group="Mundo", Canal 24 Horas (Chile)
 https://ythls-v3.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
-#EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="Mundo", Bolivia TV
+#EXTINF:-1 tvg-chno="814" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BOTV.png?raw=true" tvg-group="CHUBUT", Bolivia TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9411,7 +9421,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(C
 #EXTINF:-1 tvg-chno="817" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVPEI.png?raw=true" group-title="CHUBUT", TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
-#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AZINT.png?raw=true" tvg-group="Mundo", Azteca Internacional
+#EXTINF:-1 tvg-chno="818" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AZINT.png?raw=true" tvg-group="CHUBUT", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
 
