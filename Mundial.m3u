@@ -13072,8 +13072,6 @@ https://metalgear.bemtv.cn/STREAM/23614/playlist.m3u8
 
 
 
-#EXTM3U       
-  
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="SAO Sports", TyC SPORTS 
 http://186.125.218.199:13000/play/a02s/index.m3u8
@@ -13238,7 +13236,7 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 
 
 
-#EXTM3U refresh="0.01"
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="🇦🇷 🇵🇾 🇺🇾  OPCIONES AR PY UY", Tigo Sports 1
@@ -14571,7 +14569,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd|
 
 
 
-#EXTM3U refresh="0.01"
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
@@ -15350,7 +15348,7 @@ https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.se
 
 
 
-#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
+
 
 #EXTINF:-1 tvg-id="AMERICA 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 TV ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
