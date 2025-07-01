@@ -1,10 +1,8 @@
-
-
-
-
-
-
 #EXTM3U
+
+
+
+
 
 
 
@@ -1187,7 +1185,7 @@ CANALES ALTERNATIVOS
 
 
 
-
+#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="ALTERNATIVOS", America
 http://138.121.114.50:8000/play/a09y/index.m3u8
@@ -1801,6 +1799,8 @@ http://200.60.124.19:29000/play/a0b9/index.m3u8
 
 
 
+
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
 
 nacionales, aire y noticias
@@ -2614,6 +2614,7 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 
 
 
+#EXTM3U
 
 #EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24 group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
@@ -2999,6 +3000,7 @@ https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
 
 
 
+#EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
 
 
@@ -3617,7 +3619,9 @@ http://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=http
 
 
 
+#EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
+nacionales, aire y noticias
 
 
 
@@ -4482,7 +4486,7 @@ https://jmp2.uk/sam-US2600019IC.m3u8
 
 
 
-
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -5600,7 +5604,7 @@ ________________________________________________________________________________
 
 
 
-
+#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
 
 #EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png"  group-title="CLARO TV"",26TV
 http://201.217.246.177:8000/play/a01r/index.m3u8
@@ -5852,7 +5856,7 @@ http://201.217.246.177:8000/play/a06d/index.m3u8
 
 
 
-
+#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="C-C", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -6073,6 +6077,7 @@ https://delivery.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 
 
 
+#EXTM3U
 
 #EXTINF:0 group-title="MUNDIAL" group-title="MUNDIAL" type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24
 https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
@@ -7855,6 +7860,7 @@ https://metalgear.bemtv.cn/STREAM/23614/playlist.m3u8
 
 
 
+#EXTM3U
 
 
 
@@ -8985,7 +8991,7 @@ https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 
 
-
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml" 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -10312,7 +10318,7 @@ http://181.78.7.90:12500/play/a0nh/index.m3u8
 
 
 
-
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="⭐OPCIONES DEPORTES⭐",DSPORT1(PE)HD1
 http://38.187.3.110:8000/play/a04m/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐OPCIONES DEPORTES⭐",DSPORT1(PE)HD2
@@ -10929,7 +10935,7 @@ http://45.173.201.51:4000/play/a0k3/index.m3u8
 
 
 
-
+#EXTM3U 
 
 #EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
