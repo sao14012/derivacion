@@ -1,5 +1,3 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="Canal1" tvg-logo="" group-title="" content-type="playlist", Tv Clientes
+#EXTINF:-1 tvg-name="Mundial 2025 Canales" group-title="Mi Contenido", Mundial Original
 https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Mundial%20Original%2001-07-25.m3u
