@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mundial" group-title="Listas Variadas", Mundial TV
+https://raw.githubusercontent.com/sao14012/derivacion/refs/heads/main/Mundial.m3u
