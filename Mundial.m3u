@@ -23638,3 +23638,6 @@ http://179.63.6.17:9000/play/a08c
 http://38.252.213.17:8000/play/a08c
 #EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT+.HD1
 http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DSPORTS 1",DSPORTS+ DIRECTV
+http://38.199.6.1:17001/play/a0vx/index.m3u8
