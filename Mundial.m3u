@@ -23641,3 +23641,9 @@ http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DSPORTS 1",DSPORTS+ DIRECTV
 http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS 1", DSPORTS
+http://190.117.20.37:8000/play/a08d/index.m3u8
