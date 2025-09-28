@@ -23559,3 +23559,18 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_
 #EXTINF:-1 tvg-id="Telefe.CBA.ar" tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="Argentina TV (1)" type="channel",🌐 Telefe Córdoba
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
 
+
+
+
+
+
+
+
+
+
+########################################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es" group-title="DSPORTS 1",DSPORTS +
+http://179.51.136.19:8000/play/a112/index.m3u8
