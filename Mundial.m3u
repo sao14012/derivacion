@@ -23679,7 +23679,7 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
 
-#EXTM3U refresh="0.01" url-tvg="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml"
+
 
 
 
@@ -24095,5 +24095,6 @@ http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746015.m3u
 http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746584.m3u
 #EXTINF:-1 tvg-name="ESPAÑA | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="ESPAÑA ",ESPAÑA | CGTN Español
 http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746585.m3u
+
 
 
