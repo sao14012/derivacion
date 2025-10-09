@@ -22504,7 +22504,7 @@ https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
 
 
 
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,http://francope.elementfx.com/espn/epg.php"
+
 #EXTINF:0 group-title="Argentina TV (1)" group-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Argentina TV [Logo del Grupo]
 #EXTGRP:Argentina TV
 
@@ -24132,7 +24132,6 @@ http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746585.m3u
 
 
 
-#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ALTERNATIVOS FLW", Somos  
 http://45.5.151.151:8000/play/a0lk/index.m3u8
@@ -24619,6 +24618,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="ALTERNATIVOS FLW", France 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
+
 
 
 
