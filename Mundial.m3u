@@ -20283,7 +20283,7 @@ http://181.10.181.101:15001/play/a061/index.m3u8
 
 
 
-#EXTM3U url-tvg="https://www.open-epg.com/generate/6SHUPH87xQ.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/tyc.php?mode=epg,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TycSportsPlayapp/epg.php,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/epgTYC.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz" 
+
 #EXTINF:0 group-title="🇦🇷 SERVIDOR FLOW 2 🇦🇷"      group-logo="https://i.ibb.co/9mC2cVSF/argentinalogo.png",Argentina TV [Logo del Grupo]
 #EXTGRP:Argentina TV
 
@@ -21330,9 +21330,6 @@ https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 
 
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,http://francope.elementfx.com/espn/epg.php"
-#EXTINF:0 group-title="RESPALDO FLOW" group-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Argentina TV [Logo del Grupo]
-#EXTGRP:Argentina TV
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -24618,6 +24615,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="ALTERNATIVOS FLW", France 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
+
 
 
 
