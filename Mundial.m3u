@@ -902,7 +902,7 @@ https://cdn-py.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
 
 
 
-#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
 
 
@@ -1022,7 +1022,7 @@ http://190.104.67.111:234/play/a06z/index.m3u8
 ##################################################################################################################################
 
 
-
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="ARGENTINA", EVENTOS TyC PLAY 1
@@ -1512,7 +1512,7 @@ group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-
 
 
 
-
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
 
 
@@ -24615,6 +24615,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="ALTERNATIVOS FLW", France 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
+
 
 
 
