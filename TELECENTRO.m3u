@@ -1,4 +1,9 @@
 
+EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz" 
+
+
+
+
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
 http://200.80.230.123:8000/play/a01s/index.m3u8
@@ -396,4 +401,5 @@ http://200.59.188.3:8000/play/a0kg
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="TELECENTRO", ORBE 21 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
 
