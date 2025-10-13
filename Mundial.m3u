@@ -24319,10 +24319,10 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="Deportes",DirectTV Sports
+#EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="DSPORTS 1",DirectTV Sports
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-name="DirectTV Sports 2" tvg-logo="https://i.imgur.com/directv-sports2-logo.png" group-title="Deportes",DirectTV Sports 2
+#EXTINF:-1 tvg-id="74" tvg-name="DirectTV Sports 2" tvg-logo="https://i.imgur.com/directv-sports2-logo.png" group-title="DSPORTS 1",DirectTV Sports 2
 http://179.51.136.19:8000/play/a112/index.m3u8
 
 
@@ -25140,8 +25140,7 @@ http://200.80.230.123:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , ATRESERIES
 http://45.160.12.200:8008/play/090/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", Golden
-http://190.60.37.154:45000/play/a01z/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="ALTERNATIVOS FLW", Sony Movies
 http://138.121.114.86:8000/play/a09j/index.m3u8
@@ -25213,21 +25212,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religioso", Santa Maria
-https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="Religioso", EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="Religioso", ORBE 21  
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="Religioso", CANAL LUZ
-https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS FLW", CHACRA TV
-https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
 
 
@@ -25404,7 +25388,7 @@ http://200.26.177.54:8000/play/a0hu/index.m3u8
 
 
 
-EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz" 
+
 
 
 
@@ -25806,7 +25790,6 @@ http://200.59.188.3:8000/play/a0kg
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="TELECENTRO", ORBE 21 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-
 
 
 
