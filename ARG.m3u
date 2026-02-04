@@ -1,0 +1,1302 @@
+#EXTM3U         
+  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS 
+http://181.13.252.102:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS 
+http://200.219.40.1:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS 
+http://190.104.67.230:234/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="ALTERNATIVOS", ESPN  
+http://190.104.67.230:234/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="ALTERNATIVOS", ESPN 2
+http://201.217.246.177:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ALTERNATIVOS", ESPN 3
+http://201.217.246.177:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="ALTERNATIVOS", ESPN 4
+http://201.217.246.177:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="ALTERNATIVOS", FOX Sports
+http://201.217.246.177:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="ALTERNATIVOS", FOX Sports 2
+http://201.217.246.177:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="ALTERNATIVOS", FOX Sports 3 
+http://201.217.246.177:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="ALTERNATIVOS", DEPORTV 
+http://201.217.246.177:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="ALTERNATIVOS", CLARO SPORTS 
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="ALTERNATIVOS", CLARO SPORTS 
+http://181.78.106.127:9000/play/a0ok/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="ALTERNATIVOS", CLARO SPORTS 
+http://45.5.119.43:4000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS Internacional
+http://38.44.109.41:8003/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS Internacional
+http://38.199.6.1:17001/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://172.93.102.112:8989/279390_.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://138.99.179.229:8000/play/a0se/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS 
+http://38.252.213.12:8000/play/a01k
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://200.60.41.205:8000/play/a09a
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="ALTERNATIVOS", DSPORTS
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 1
+http://200.80.230.124:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 2
+http://200.80.230.124:8000/play/a0bk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 3
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 4
+http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 5
+http://190.104.67.135:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 6
+http://190.104.67.135:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 7
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 8
+http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 9
+http://190.104.67.112:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 10
+http://190.104.67.112:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 11
+http://186.148.196.82:8001/play/a04r 
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 12
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 13
+http://181.209.95.27:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ALTERNATIVOS", Tango Sports 14
+http://181.209.95.27:8000/play/a0bk/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="ALTERNATIVOS", AMERICA TV 
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="ALTERNATIVOS", TV PUBLICA  
+http://200.80.230.123:8000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="ALTERNATIVOS", EL NUEVE
+http://190.104.67.230:234/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="ALTERNATIVOS", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="ALTERNATIVOS", EL TRECE
+http://201.217.246.177:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="ALTERNATIVOS", NET TV
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B3H8vfrbLNJxxqvuUQlNEKkNjKDe7ezODA&s" group-title="ALTERNATIVOS", BRAVO TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="ALTERNATIVOS", ENCUENTRO
+http://200.219.40.1:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="ALTERNATIVOS" , CANAL DE LA CIUDAD
+http://190.104.67.135:234/play/a07c/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="ALTERNATIVOS", CARAS TV 
+https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="ALTERNATIVOS", AUNAR
+http://200.106.13.204:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="ALTERNATIVOS", TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="ALTERNATIVOS", PAKA PAKA
+http://138.121.114.86:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="ALTERNATIVOS", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="ALTERNATIVOS", CINEAR
+http://201.217.246.177:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="ALTERNATIVOS", DEPORTV
+http://201.217.246.177:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="ALTERNATIVOS", TyC SPORTS 
+http://201.217.246.177:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="ALTERNATIVOS", AM Sports
+http://201.217.246.177:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/100px-Canal_Orbe_21_logo.svg.pngg" group-title="ALTERNATIVOS", ORBE 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="ALTERNATIVOS", UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8  
+
+#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="ALTERNATIVOS", SOLIDARIA TV 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="ALTERNATIVOS", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="ALTERNATIVOS", TERRAMIA TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="ALTERNATIVOS", EL FOLKLORICO
+https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ALTERNATIVOS", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Quiero Música
+http://190.104.67.135:234/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="ALTERNATIVOS", ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="ALTERNATIVOS", CIUDAD MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="ALTERNATIVOS", TELEFE PLUTO TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="ALTERNATIVOS" , METRO
+http://201.217.246.177:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="ALTERNATIVOS" , VOLVER
+http://201.217.246.177:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s" group-title="ALTERNATIVOS" , AMC
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="ALTERNATIVOS" , CANAL A 
+http://201.217.246.177:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="ALTERNATIVOS", El Gourmet
+http://201.217.246.177:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="ALTERNATIVOS", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="ALTERNATIVOS", TEC TV
+http://200.106.13.204:8000/play/a0ek/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="ALTERNATIVOS", LA 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="ALTERNATIVOS", LATINA RADIO FM 101.1
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vorterix.com/images/logo_vorterix-horizontal.svg" group-title="ALTERNATIVOS", VORTERIX
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="ALTERNATIVOS", ASPEN 102.3
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="ALTERNATIVOS", CANAL E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-nuevo-logo-e-imagen-de-la-UCVX5FKKO5CJXFXO2VBMZAH3DM.jpg?auth=d1814d3f3d1476c687bdf87ca0fde33a154bcc4e7159051d5b3c80dfb9f835b7&width=1280&height=854&quality=70&smart=true" group-title="ALTERNATIVOS", IP NOTICIAS
+http://181.78.27.128:12543/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="ALTERNATIVOS", CANAL 26
+http://45.5.151.62:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="ALTERNATIVOS", CRONICA HD 
+http://201.217.246.177:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="ALTERNATIVOS", A24
+http://190.104.67.230:234/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="ALTERNATIVOS", TODO NOTICIAS  
+http://190.104.67.230:234/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="ALTERNATIVOS", C5N
+http://181.209.125.237:9000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="ALTERNATIVOS", LA NACION +    
+http://190.104.67.230:234/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="ALTERNATIVOS", EL DESTAPE TV
+http://181.78.27.128:12543/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/960px-Logo_Diputados_TV.png" group-title="ALTERNATIVOS", Diputados TV 
+http://200.106.13.204:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ALTERNATIVOS", RURAL TV
+http://190.104.67.230:234/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="ALTERNATIVOS", CHACRA TV
+https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="ALTERNATIVOS", EL TRECE NOTICIERO 
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="ALTERNATIVOS", MITRE
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ALTERNATIVOS", CADENA 3
+https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="ALTERNATIVOS", DEL PLATA
+https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="ALTERNATIVOS",01.5AmericaTV  
+http://200.60.124.19:29000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",01.6Latina
+http://200.60.124.19:29000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",02.1ATV
+http://200.60.124.19:29000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",02.2Panamericana TV
+http://200.60.124.19:29000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.1 Discovery Channel HD
+http://200.60.124.19:29000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.3Lifetime
+http://200.60.124.19:29000/play/a021/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.4Animal Planet
+http://200.60.124.19:29000/play/a012/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.4Discovery Turbo
+http://200.60.124.19:29000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.6Cinemax
+http://200.60.124.19:29000/play/a025/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",03.7FX
+http://200.60.124.19:29000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",04.5Disney Channel
+http://200.60.124.19:29000/play/a010/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",04.6BabyFirst
+http://200.60.124.19:29000/play/a020/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",04.7Nickelodeon
+http://200.60.124.19:29000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",04.8Nick Jr
+http://200.60.124.19:29000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",05.1Space
+http://200.60.124.19:29000/play/a028/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",05.2Sony
+http://200.60.124.19:29000/play/a026/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",05.3 Nat Geo HD
+http://200.60.124.19:29000/play/a0m9/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",06.3AE Mundo
+http://200.60.124.19:29000/play/a019/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",06.4E Entertainment
+http://200.60.124.19:29000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",06.5TLC
+http://200.60.124.19:29000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",06.6ViaX
+http://200.60.124.19:29000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.1Warner
+http://200.60.124.19:29000/play/a013/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.3STAR CHANNEL SD
+http://200.60.124.19:29000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.4SyFy
+http://200.60.124.19:29000/play/a022/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.5TCM
+http://200.60.124.19:29000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.7Universal
+http://200.60.124.19:29000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",07.8AXN
+http://200.60.124.19:29000/play/a027/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",09.1ESPN 1
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",10.2 WILLAX
+http://200.60.124.19:29000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",11.1ESPN 2 Latin
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",11.2ESPN 3
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",11.3ESPN 4
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",12.2Canal Claro
+http://200.60.124.19:29000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",13 C
+http://200.60.124.19:29000/play/a0id/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",13.1 Discovery ID
+http://200.60.124.19:29000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",13.4 HomeandHealth
+http://200.60.124.19:29000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",14.3Telemundo
+http://200.60.124.19:29000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",14.4RCN Novelas
+http://200.60.124.19:29000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",14.5 TNT Novelas
+http://200.60.124.19:29000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",15.1 ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",15.2ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",16.3Enlace
+http://200.60.124.19:29000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",7.6 TNT
+http://200.60.124.19:29000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",A&E
+http://200.60.124.19:29000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",A&E HD
+http://200.60.124.19:29000/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AM Sports
+http://200.60.124.19:29000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AMC
+http://200.60.124.19:29000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AXN
+http://200.60.124.19:29000/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AXN
+http://200.60.124.19:29000/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AXN HD
+http://200.60.124.19:29000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",AXN HD
+http://200.60.124.19:29000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Adult Swim
+http://200.60.124.19:29000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Adult swim HD
+http://200.60.124.19:29000/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",America TV HD
+http://200.60.124.19:29000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",America TV PY
+http://200.60.124.19:29000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Animal Planet
+http://200.60.124.19:29000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Animal Planet HD
+http://200.60.124.19:29000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",BETHEL TV
+http://200.60.124.19:29000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Baby TV
+http://200.60.124.19:29000/play/a0ho/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",CNN Chile
+http://200.60.124.19:29000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",CNN Espaæol
+http://200.60.124.19:29000/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",CNN International
+http://200.60.124.19:29000/play/a0hl/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",CNN en Espaæol
+http://200.60.124.19:29000/play/a0lx/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Canal Estrellas
+http://200.60.124.19:29000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Canal de la Ciudad
+http://200.60.124.19:29000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cartoon Network
+http://200.60.124.19:29000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cartoon Network HD
+http://200.60.124.19:29000/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cartoonito
+http://200.60.124.19:29000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cine.AR
+http://200.60.124.19:29000/play/a0k5/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinecanal
+http://200.60.124.19:29000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinecanal HD
+http://200.60.124.19:29000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinecanal HD
+http://200.60.124.19:29000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinemax
+http://200.60.124.19:29000/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinemax
+http://200.60.124.19:29000/play/a0lk/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Cinemax HD
+http://200.60.124.19:29000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Claro Cinema
+http://200.60.124.19:29000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Comedy Central
+http://200.60.124.19:29000/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Comedy Central HD
+http://200.60.124.19:29000/play/a0ky/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",DHE HD
+http://200.60.124.19:29000/play/a0fx/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",DeporTV
+http://200.60.124.19:29000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",DirecTv Sport HD
+http://200.60.124.19:29000/play/a081/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Discovery H&H HD
+http://200.60.124.19:29000/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Discovery Kids HD
+http://200.60.124.19:29000/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Discovery Science
+http://200.60.124.19:29000/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Discovery Science
+http://200.60.124.19:29000/play/a0kl/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Disney Junior
+http://200.60.124.19:29000/play/a0hu/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",E! Entertainment
+http://200.60.124.19:29000/play/a0lt/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",E! Entertainment TV
+http://200.60.124.19:29000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",ESPN 2 HD
+http://200.60.124.19:29000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",ESPN 3 HD
+http://200.60.124.19:29000/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",ESPN 4 HD
+http://200.60.124.19:29000/play/a0j8/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",EWTN
+http://200.60.124.19:29000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",El Gourmet
+http://200.60.124.19:29000/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",El Gourmet
+http://200.60.124.19:29000/play/a0ix/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Enlace
+http://200.60.124.19:29000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Film & Arts HD
+http://200.60.124.19:29000/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Fox Sports 2 HD
+http://200.60.124.19:29000/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Fox Sports 3 HD
+http://200.60.124.19:29000/play/a0ku/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Fox Sports HD
+http://200.60.124.19:29000/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",France 24
+http://200.60.124.19:29000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",GOLPERU
+http://200.60.124.19:29000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO 2
+http://200.60.124.19:29000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO Family
+http://200.60.124.19:29000/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO Mundi
+http://200.60.124.19:29000/play/a0kb/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO Plus
+http://200.60.124.19:29000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO Signature
+http://200.60.124.19:29000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HBO XTREME
+http://200.60.124.19:29000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",HGTV
+http://200.60.124.19:29000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",History 2
+http://200.60.124.19:29000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",History Channel
+http://200.60.124.19:29000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",ID HD
+http://200.60.124.19:29000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Kidoo HD
+http://200.60.124.19:29000/play/a0ls/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",L1MAX HD
+http://200.60.124.19:29000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",La Nacion TV
+http://200.60.124.19:29000/play/a0ju/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Las Estrellas
+http://200.60.124.19:29000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Latina HD
+http://200.60.124.19:29000/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Lifetime
+http://200.60.124.19:29000/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",MTV
+http://200.60.124.19:29000/play/a0f9/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",MTV 00s
+http://200.60.124.19:29000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",MTV LIVE HD
+http://200.60.124.19:29000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",National Geographic
+http://200.60.124.19:29000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Nick Jr
+http://200.60.124.19:29000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Pakapaka
+http://200.60.124.19:29000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Paramount HD
+http://200.60.124.19:29000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Pasiones
+http://200.60.124.19:29000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Quiero Musica
+http://200.60.124.19:29000/play/a0ko/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",RT en Espaæol
+http://200.60.124.19:29000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Rural
+http://200.60.124.19:29000/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",STAR CHANNEL HD
+http://200.60.124.19:29000/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Saeta Canal 10
+http://200.60.124.19:29000/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Sin Limites
+http://200.60.124.19:29000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Sony HD
+http://200.60.124.19:29000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Sony Movies
+http://200.60.124.19:29000/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Sony Movies HD
+http://200.60.124.19:29000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Space HD
+http://200.60.124.19:29000/play/a0kx/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Space HD
+http://200.60.124.19:29000/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Studio Universal
+http://200.60.124.19:29000/play/a0k3/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TCM
+http://200.60.124.19:29000/play/a0k1/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TLC
+http://200.60.124.19:29000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TNT HD
+http://200.60.124.19:29000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TNT Series HD
+http://200.60.124.19:29000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TNT Sports HD
+http://200.60.124.19:29000/play/a0kv/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TVE
+http://200.60.124.19:29000/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TVE SD
+http://200.60.124.19:29000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Telefe HD
+http://200.60.124.19:29000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TelefØ
+http://200.60.124.19:29000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Telemundo
+http://200.60.124.19:29000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Televicentro
+http://200.60.124.19:29000/play/a0hj/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Tooncast
+http://200.60.124.19:29000/play/a0i3/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TyC
+http://200.60.124.19:29000/play/a017/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",TyC Sports HD
+http://200.60.124.19:29000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",UNIVERSAL CHANNEL HD
+http://200.60.124.19:29000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",USA SD
+http://200.60.124.19:29000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Universal HD
+http://200.60.124.19:29000/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Universo
+http://200.60.124.19:29000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",VTV HD
+http://200.60.124.19:29000/play/a0j7/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Warner Channel HD
+http://200.60.124.19:29000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Z.cositel
+http://200.60.124.19:29000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",Zona Latina
+http://200.60.124.19:29000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",ciudad magazine
+http://200.60.124.19:29000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",el nueve HD
+http://200.60.124.19:29000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS",el trece HD
+http://200.60.124.19:29000/play/a0jc/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="ALTERNATIVOS", TELESUR 
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="ALTERNATIVOS", France 24 ESPAÑOL
+http://200.229.147.210:8000/play/a039/index.m3u8
+ 
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="ALTERNATIVOS", RT 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="ALTERNATIVOS",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="ALTERNATIVOS", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="ALTERNATIVOS", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ALTERNATIVOS", GALICIA TV
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="ALTERNATIVOS", 3/24
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="ALTERNATIVOS", TV Perú Noticias
+http://45.232.176.29:8000/play/a05i
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="ALTERNATIVOS", ABC PARAGUAY
+https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/GQagSggs/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="ALTERNATIVOS", HISPAN TV
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="ALTERNATIVOS", CGTN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="ALTERNATIVOS" , Ukraine 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png" group-title="ALTERNATIVOS", Kan 11 ISRAEL
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="ALTERNATIVOS", Palestine TV 
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="ALTERNATIVOS" , NHK World Japon
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ADN_Noticias_%282025%29.svg/330px-ADN_Noticias_%282025%29.svg.png" group-title="ALTERNATIVOS", ADN 40 MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/196px-Cable_Noticias_logo.svg.png" group-title="ALTERNATIVOS", CABLENOTICIAS COLOMBIA
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="ALTERNATIVOS", TELEMUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/668px-Rai_News_24_-_Logo_2013.svg.png" group-title="ALTERNATIVOS", RAI NEWS
+https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="ALTERNATIVOS", FOX NEWS
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="ALTERNATIVOS", HBO
+http://181.13.252.102:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="ALTERNATIVOS", HBO 2
+http://181.13.252.102:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="ALTERNATIVOS", HBO Plus
+http://201.217.246.177:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="ALTERNATIVOS", HBO Family
+http://181.13.252.102:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="ALTERNATIVOS", HBO Pop
+http://201.217.246.177:8000/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="ALTERNATIVOS", HBO Xtreme
+http://138.121.114.86:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="ALTERNATIVOS", HBO Mundi
+http://201.217.246.177:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="ALTERNATIVOS", HBO Signature
+http://201.217.246.177:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Universal Premiere
+http://148.230.28.85:8001/play/127/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Universal Cinema
+http://148.230.28.85:8001/play/129/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Universal Comedy
+http://148.230.28.85:8001/play/109/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Universal Crime
+http://148.230.28.85:8001/play/128/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="ALTERNATIVOS" , Universal Reality
+http://148.230.28.85:8001/play/108/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMLjdvLD3xFgBvU-e4IExqvquZ7wONdvWjw&s" group-title="ALTERNATIVOS", CHOCHO TV
+http://190.97.183.98:8028/play/a0rs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e19a516db1102f09dfebb2c5151200cdb0199cc95eeb7f3e37258b3470a99e9c.png" group-title="ALTERNATIVOS", COCO TV
+http://190.97.183.98:8028/play/a0q4/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="ALTERNATIVOS" , CSI: Miami
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="ALTERNATIVOS", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="ALTERNATIVOS", LOS SIMPSONS
+http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1200px-Billboard_logo.svg.png" group-title="ALTERNATIVOS", BILLBOARD TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT1/BLBD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="ALTERNATIVOS", XTREMA CARTOON
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="ALTERNATIVOS", XTREMA RETROCARTOON
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="ALTERNATIVOS", ANGRY BIRDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="ALTERNATIVOS", ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-613237a1c9e0db0007a91350" tvg-id="613237a1c9e0db0007a91350" tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/colorLogoPNG.png" tvg-chno="1052" group-title="ALTERNATIVOS" , Telefe
+https://stitcher.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="ALTERNATIVOS", SUPER CAMPEONES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="ALTERNATIVOS", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68b5f68ecce9c4384b9c1dc4" tvg-name="68b5f68ecce9c4384b9c1dc4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c" group-title="ALTERNATIVOS", Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/ESBC1700002IM_20220511T011722.png" group-title="ALTERNATIVOS", Televisión Consciente
+https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="ALTERNATIVOS", BOX KIDS TV
+https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", Canal Anime Onegai 1 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", Canal Anime Onegai 2 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", Canal Anime Onegai 3 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", Canal Anime Onegai 4 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", Canal Anime Onegai 5 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", ANIME ONEGAI TV PLUS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", ANIME ONEGAI TV PLUS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", ANIME ONEGAI TV PLUS 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", ANIME ONEGAI TV PLUS 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ALTERNATIVOS", ANIME ONEGAI TV PLUS 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="ALTERNATIVOS", PROVINCIAL TV
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="ALTERNATIVOS", SANTA MARIA
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="ALTERNATIVOS", CINCO TV TIGRE  30.1
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="ALTERNATIVOS", GEN TV 15.4
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="ALTERNATIVOS", NEO TV DIGITAL  16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="ALTERNATIVOS", QUANTICA TV  16.3
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" group-title="ALTERNATIVOS", KAIROS TV 16.4
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="ALTERNATIVOS", CANAL 22 WEB
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="ALTERNATIVOS", TELE MIX CANAL 50 GLEW
+https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/YrDl0RVPWQc5PZGq/125801975_1320600858279322_4096123764503234899_n-YNqoEV98RKiqW87K.jpg" group-title="ALTERNATIVOS", Urbana TeVe 32.2
+https://nd106.republicaservers.com/hls/c7812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ALTERNATIVOS", SOMOS AMBA
+http://181.209.125.237:9000/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="ALTERNATIVOS", SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCJtgn9fZJ_NMqXU3XTg5bjouqriBfsR5rVSSHAGnR-dJWGhyMAFKvS4OPVZUiYSb3qI&usqp=CAU" group-title="ALTERNATIVOS", Bayres TV 41.1
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="ALTERNATIVOS", FIVE TV  16.1
+https://panel.host-live.com:19360/8118/8118.m3u8
+
+#EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="ALTERNATIVOS", REALPOLITIK LA PLATA
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="ALTERNATIVOS", TVP MARCOS PAZ 19.1
+https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="ALTERNATIVOS", TELECREATIVA LANUS
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="ALTERNATIVOS", X LEVEL TV
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="ALTERNATIVOS", AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3bYDzzwYvwIVQNUIYY2Cq3VIAy8uFbcHQQ&s" group-title="ALTERNATIVOS", CANAL 1 ARGENTINA
+https://stmv7.voxtvhd.com.br/canalunotv/canalunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="ALTERNATIVOS", CANAL 3 ARGENTINA
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODIbru9p7WEmGxRJ6HXR_kHlxxFgaDSyfOQ&s" group-title="ALTERNATIVOS", SION TV
+https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="ALTERNATIVOS", ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="ALTERNATIVOS", CANAL 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="ALTERNATIVOS", TEVEO DIGITAL
+https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJdHzp2wLYBncDTew0M_zvN4CjDBr-AEuRw&s" group-title="ALTERNATIVOS", ESPACIO FABRIK
+https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----GP.png" group-title="ALTERNATIVOS",  GP DIARIOS
+https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="ALTERNATIVOS", CANAL 4 TELEAIRE
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhME3O23_lKc2d1B4kvUVrFLzWUJvYYqqBkKBwTv1wP-ybE9lQN_YhhSUAm-uDg9Pqpr40ViItPzyiepTZ5igK03_gA6SZxUmFPuCg61N_zlgBXNDVYvkQTC5rkXcD9OrQX2DKFXGE_X66xirAi9a0XtvsrM19pB7k6ZHSh0PXZvXWdZBbfrlYx9oj36OA/s200-rw/481363039_590148983921581_3743281490410201113_n.png" group-title="ALTERNATIVOS", LA PODEROSA
+https://tuvideoonline.com.ar:3215/live/lapoderosalive.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="ALTERNATIVOS", TELEFE CORDOBA
+https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
+
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="ALTERNATIVOS", TELEFE CORDOBA
+https://smt-usr-edge02.sensa.com.ar/output/Canal8D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ALTERNATIVOS" , EL DOCE CORDOBA  
+https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="ALTERNATIVOS" , EL DOCE CORDOBA  
+https://smt-usr-edge02.sensa.com.ar/output/Canal12D/output.mpd
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="ALTERNATIVOS", CANAL 10 CORDOBA
+https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="ALTERNATIVOS", CANAL 10 CORDOBA
+https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="ALTERNATIVOS", CADENA 3
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://radiosargentina.com.ar/png/VICANALU.png" group-title="ALTERNATIVOS", CANAL U CORDOBA
+https://stream.arcast.live/canalu/canalu/chunklist_w1872889393.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="ALTERNATIVOS", RADIO MARIA TV
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEsLJDaWwPRRTuGVIhP52i3H0l-DbvhJquRMj2p9Glvg=s160-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS" , Canal 2 Alta Gracia
+http://190.123.90.146:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="ALTERNATIVOS", CIUDAD MAGICA TV
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="ALTERNATIVOS", COOP CAROYA
+https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y29VYVkoft9EYK2Du_OGAtmqCv8N9aSISw&s" group-title="ALTERNATIVOS", CEOSCA
+https://smt-usr-edge01.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="ALTERNATIVOS", CANAL COONET TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="ALTERNATIVOS" ,MULTIMEDIOS RIO PRIMERO
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="ALTERNATIVOS", NEXO SMC MULTIMEDIOS
+https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="ALTERNATIVOS" ,Canal Cooperativo Alicia
+https://smt-usr-edge01.sensa.com.ar/output/LVR/CCAD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="ALTERNATIVOS" , CEOSCA-Camilo Aldao
+https://smt-usr-edge01.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png" group-title="ALTERNATIVOS" , C20 Villa María
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/C20D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/800/542/0/0/50103492078472.png" group-title="ALTERNATIVOS" , STV 2 Canal - Las Varillas
+https://smt-usr-edge01.sensa.com.ar/output/LVR/STV2D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="ALTERNATIVOS", TRIBU TV LAS VARILLAS CORDOBA
+https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS", CANAL 9 RIO CUARTO
+https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLGVyAAMQewxgpEpb0ec2qlOfPnapGz8Ibr_epK1SI9A=s160-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS", CANAL COOP JUSTINIANO POSSE
+https://smt-usr-edge01.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" group-title="ALTERNATIVOS", QUATRO TV RIO CUARTO
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiocanal.com.ar/imagenes/estructura/img_logo.png" group-title="ALTERNATIVOS", CANAL 4 RADIOCANAL
+http://204.199.3.2/.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C6F.png" group-title="ALTERNATIVOS", CANAL 6 FREYRE
+https://online.coopmorteros.coop/freyre/freyre.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal50.tv/public/images/logos/CANAL50_HD.png" group-title="ALTERNATIVOS", CANAL 50 MORTEROS
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/Untitled-1.jpg" group-title="ALTERNATIVOS", TV MANA HD
+https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1414594741_b30048000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="ALTERNATIVOS", UNIRIO TV
+https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1265_Tvmaxcba.png" group-title="ALTERNATIVOS", Tvmaxcba 
+https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200-rw/SKYVISION%20TV.jpg" group-title="ALTERNATIVOS" , SKY VISION
+https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="ALTERNATIVOS", CANAL 4 TELECONDOR
+https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/140264_032cb4f22381422ebf36e8811cc96a68~mv2.png" group-title="ALTERNATIVOS", MILENNIO TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="ALTERNATIVOS", Megaclassic TV 
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="ALTERNATIVOS", Televideo 
+https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7bi81teO387yuwPH07zpr8mit2g4rruAol4pVp8l_kGYutVHeD_HLQUqbY57YvLcDolwJZfI450TkB-9lT8KCFP1CulOz71cbtc1HY4PziCdeageSHUOHEW-aXgTYxNk4dT_wNNXKFUF6YbJsCmFaBrTSiazuaFoTX68uX0Z_IOd0dBu-vVqKoydqq_I/s200-rw/N24TV-removebg-preview.png" group-title="ALTERNATIVOS", N24 TV
+https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixG7m_ziEoQcR1BpIejvElegTT9_RSpo1m7NEaKwUCBlxD6xVU830PBkfzVzFlnFGwrtW1-yXNRFXHct9AVM3TmbzNQPwT45tJy5NQNTJ4TMpweQRhs2WtBzNTtfqPwlart3bIjfyu1QPKfrfjyT3gcs6n7W1LvABpTr6B1RCDYVbV9EGGZ8FzT4YG/s200/350719171_615710037162403_7392052004032939509_n.png" group-title="ALTERNATIVOS", Dannce TV
+https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="ALTERNATIVOS", UNITEVE VILLA MARIA CORDOBA
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75" group-title="ALTERNATIVOS", CANAL COOP JESUS MARIA CORDOBA
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mw40mdD19gLXwWvaZk08EfYeQhBr22_s9-7GaTbdW3XZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS", CANAL 7 ARIAS
+https://srv1.zcast.com.br/canal7arias/canal7arias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--IRTV.png" group-title="ALTERNATIVOS", Imagen Regional TV
+https://videohd.live:19360/8078/8078.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="ALTERNATIVOS", CEMDO TV
+https://inliveserver.com:1936/12058/12058/chunklist_w1489655392.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEc2bnJpXYBs50v7pbsoyQzCIGE2B7sjuTg&s" group-title="ALTERNATIVOS", COVISAR
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="" group-title="ALTERNATIVOS", TEMPLE TV
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcMScHiLlcNckXa9v8XOX1UXJpProhCtdcQ&s" group-title="RADIO-CORDOBA", COSQUIN ROCK RADIO
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="RADIO-CORDOBA", RADIO COOP ONLINE
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="ALTERNATIVOS", CETV Canal Deheza
+https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png" group-title="ALTERNATIVOS", Río Primero TV
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="ALTERNATIVOS", Vivencias TV
+https://smt-usr-edge01.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/800/542/0/0/49748039075506.png" group-title="ALTERNATIVOS", Unidos Tv
+https://smt-usr-edge01.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/800/542/0/0/66473712078884.png" group-title="ALTERNATIVOS", TV Coop Hernando
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/HERD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/800/542/0/0/54537430079017.png" group-title="ALTERNATIVOS", El Sauce TV Canal Local VGB
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/800/542/0/0/21304890078316.png" group-title="ALTERNATIVOS", Canal 3 Arroyito
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/C3AD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/800/542/0/0/56157196078230.png" group-title="ALTERNATIVOS", RioTel Río Tercero
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/RTD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/800/542/0/0/98726444077724.png" group-title="ALTERNATIVOS", Canal 2 Almafuerte
+https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png" group-title="ALTERNATIVOS", Cegro General Roca
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="ALTERNATIVOS", Canal 11 Oliva
+https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="ALTERNATIVOS", TvCoop Suardi
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWnzgxX9DmjletzDKXRtLfMyd-B_Qgn0JMhNlzu8L3xvH3Vuz_bc2CEpZ3QKiC7ZaO809Kx7uS1I_qDiE08FnaVeHiOt3KhAnYLzAAJDyh1Adb1N5PpPtZZkP94bVUzl_LZioqxRkLVg6VIRfk6B7cG2IsdCYbs5PdGjhU7NTB6a3TZ6mLigEEmoJqB4/s200-rw/teuc.png" group-title="ALTERNATIVOS", Teleco Ucacha
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="ALTERNATIVOS", COOPLUS
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmag1039.com.ar/wp-content/uploads/2024/05/radio-01.png" group-title="RADIO-CORDOBA", Radio Alta Gracia 103.9
+https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2025/04/WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="RADIO-CORDOBA", FM MAS TV LA CARLOTA CORDOBA
+http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIO-CORDOBA", FM COMUNICAR 90.7 FM - COLONIA CAROYA
+https://panel.host-live.com:19360/canal907/canal907.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO-CORDOBA", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
+https://streamyes.alsolnet.com/goodradio/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979373619263524864/JmC3rvJB.jpg" group-title="RADIO-CORDOBA", 95.5 FM OK ARROYITO CORDOBA
+https://stmv5.livecastv.com/griffa/griffa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fmsoledad885.com.ar/wp-content/uploads/2020/11/Logo-header-1-1024x132.png" group-title="RADIO-CORDOBA", FM SOLEDAD 88.5 LAS HIGHERAS CORDOBA
+https://videostream.shockmedia.com.ar:19360/fmsoledad885/fmsoledad885.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2788646843/74ed26f4a4fb0777ad7f6388a2f26458_400x400.jpeg" group-title="RADIO-CORDOBA", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO-CORDOBA", RADIO CARDINAL MIRAMAR CORDOBA
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341448598907723779/6ino3-md_400x400.jpg" group-title="RADIO-CORDOBA", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
+https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fmradiorepublica.com.ar/Content/ImagenesHome/radio-larga-recortada.png" group-title="RADIO-CORDOBA", FM REPUBLICA 95.5 FM MORTEROS CORDOBA
+https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="RADIO-CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
+https://online.coopmorteros.coop/radiourbana/canal01.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmmitierra.com.ar/wp-content/uploads/2024/04/FM-MI-TIERRA-logo-chico.png" group-title="RADIO-CORDOBA", FM Mi Tierra 101.1 FM Rio Tercero
+https://stream.trixserver.com:3604/live/uv110live.m3u8
+
+#EXTINF:-1 tvg-logo="https://radioestudiofm.com.ar/assets/img/logo.png" group-title="RADIO-CORDOBA", Estudio 100.3 TV Cordoba
+https://vivo.solumedia.com:19360/radioestudio/radioestudio.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX1G6QJn47iDauor0myR1RXuQoQrpUvEFlHGl5rr3reO5H4MLs-qOoaEZIvm_nW2MWzc4u75VcibzPMUz-uyvcq27dNRQKwywzpJFt1avUuljg7deB1ifVdmBzepppicj5hWuf2e99wstr/s645/descarga.png" group-title="RADIO-CORDOBA", Club 89.5 TV Almafuerte
+https://videostream.shockmedia.com.ar:19360/cadenaclub/cadenaclub.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lasrosas.com.ar/portal/wp-content/themes/lasrosas-v2/images/logo-grupolasrosas.svg" group-title="RADIO-CORDOBA", Las Rosas 105.5 TV Cordoba
+https://videostream.shockmedia.com.ar:19360/lasrosasonline/lasrosasonline.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2025/04/WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="RADIO-CORDOBA", Radio Mas 88.3 FM Huerta Grande
+https://videostream.shockmedia.com.ar:19360/radiomas883cordoba/radiomas883cordoba.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTURB.png" group-title="RADIO-CORDOBA", Urbana TV 97.5 FM Rio Tercero
+https://nd106.republicaservers.com:4433/hls/c7632/1_0/index.m3u8?sessId=190245
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s160-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS", CANAL 10 RIO NEGRO
+https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wowzatokenendtime=1744038420&wowzatokenstarttime=0&wowzatokenhash=rNU1-F8GLZhkxjcIYiyAGaAHpvizxny_z0MnYpdLxm4=
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeR2qhsy-yzhJZWwDo50Rg1a3KzFBUqb5EH6bkemtGb_GnIIFhBBlN4jzqIFBHcngA15WB5P6gRV-XyVJM_jyZYgI1L9NdALjww1JRnPEde8dNBd0yo7Sgjf_HP40Pn2V2xH28bzJ0NyvNJ-z8Jlu6dlFudJ8AQuWNlHOvCISw7tsMMjoQreVqVws1dtA/s200-rw/images-removebg-preview.png" group-title="ALTERNATIVOS", ABTV
+https://videostream.shockmedia.com.ar:19360/abtvbariloche/abtvbariloche.m3u8
+
+#EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="ALTERNATIVOS", RADIO ZERO 94.5 FM CATRIEL  
+https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4BJcl2NoRli5SEQT3N5CfTDOmtpZWgKhEizudiUxFz36tSzGBml2WNqj4g6AbUv9lRy3-22T=s176-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS", LCR
+https://5f700d5b2c46f.streamlock.net/lcrlacomuna/lcrlacomuna/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://anallen.com.ar/wp-content/uploads/2022/05/AN-ALLEN.jpg" group-title="ALTERNATIVOS", Frecuencia AN - ALLEN
+https://5f700d5b2c46f.streamlock.net/anotador/anotador/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="ALTERNATIVOS", Coopetel TV - El Bolsón   
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://radiolapuntual.com.ar/images/logo.png" group-title="ALTERNATIVOS", La Puntual 97.1 FM Viedma
+https://inliveserver.com:1936/12018/12018/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://zerofm.com.ar/_astro/radiozerologo.2iQv7x2O.png" group-title="ALTERNATIVOS", Zero 94.5 FM Catriel 
+https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRbifiUexivtDzxsqtsC61C7uhIlhpjvU7m5P9bS3AG_zGAl39526E-wB6Ykpx48SjHl89CEGMEPwrxJpGUXeZ0A7L_Mhtzsm-XoMMgSl1P-Yr1tM_C6nn9MD2194Ec3mfB_Wx_VmiSXU4fqmMb43meSb4iO59L9S1tkwzC6Psj1HJdi2avW1pf9s458/s200/Logo-letras-3d.png" group-title="ALTERNATIVOS", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="ALTERNATIVOS" , Pitufo TV   
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="ALTERNATIVOS" , EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" group-title="ALTERNATIVOS", LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2477-294x165-FFFFFF.jpg" group-title="ALTERNATIVOS", DIOS TV VE KIDS
+https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WKyB2LbJJb2-5cfvdvW3OdsAP_TXcWdPnudv-zCNwW9G6Flse8aAMFii79MDIO2VJZA" group-title="ALTERNATIVOS", TOON GOGGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="ALTERNATIVOS", PEQUERADIO
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+
+
+
+
+

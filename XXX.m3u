@@ -1,0 +1,18 @@
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png" group-title="xxx",SEXTREME
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eeKO4OxYlYu2ZvnlOgzUNA","kid":"lb1kInrPRY2veIb4A9Apjg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png" group-title="xxx",PLAYBOY
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9gigrHA8+q+UQldNmiuH+w","kid":"hXfYHq8zQ22fHkgjYGhafA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png" group-title="xxx",VENUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bdlz2YeRUSDlZ4gPUKQirw","kid":"NCN9KuZoTuegEfW5x8Q+bQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd
