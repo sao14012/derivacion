@@ -3,13 +3,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , ESPN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 4", ESPN
 http://217.26.190.76:8888/play/a0ee/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , ESPN 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 4", ESPN 2
 http://217.26.190.76:8888/play/a0kp/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , ESPN 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Flow 4", ESPN 3
 http://217.26.190.76:8888/play/a0k0/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , ESPN 4
