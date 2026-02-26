@@ -4460,28 +4460,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png" group-title="xxx",SEXTREME
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eeKO4OxYlYu2ZvnlOgzUNA","kid":"lb1kInrPRY2veIb4A9Apjg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png" group-title="xxx",PLAYBOY
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9gigrHA8+q+UQldNmiuH+w","kid":"hXfYHq8zQ22fHkgjYGhafA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png" group-title="xxx",VENUS
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bdlz2YeRUSDlZ4gPUKQirw","kid":"NCN9KuZoTuegEfW5x8Q+bQ"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd
-
-
-
-
-
 
 
 
@@ -12736,34 +12714,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png" group-title="xxx",SEXTREME
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eeKO4OxYlYu2ZvnlOgzUNA","kid":"lb1kInrPRY2veIb4A9Apjg"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png" group-title="xxx",PLAYBOY
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9gigrHA8+q+UQldNmiuH+w","kid":"hXfYHq8zQ22fHkgjYGhafA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png" group-title="xxx",VENUS
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bdlz2YeRUSDlZ4gPUKQirw","kid":"NCN9KuZoTuegEfW5x8Q+bQ"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd
-
-
-
-
-
-
-
-
-
-
-
 
 
 ############# https://gitlab.com/mortal251/ssiptvarg/-/raw/main/lavirginia/astra.m3u?ref_type=heads############
@@ -12918,8 +12868,7 @@ http://181.13.252.102:8000/play/a0bj/index.m3u8
 http://181.13.252.102:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Paramount HD
 http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="XXX" ,Playboy
-http://181.13.252.102:8000/play/a032/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Quiero Musica
 http://181.13.252.102:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,RAI Italia
@@ -12928,8 +12877,7 @@ http://181.13.252.102:8000/play/a02p/index.m3u8
 http://181.13.252.102:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Rural
 http://181.13.252.102:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="XXX" ,Sextreme
-http://181.13.252.102:8000/play/a034/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Sony HD
 http://181.13.252.102:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Sony Movies HD
@@ -12968,8 +12916,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8
 http://181.13.252.102:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Universal HD
 http://181.13.252.102:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="XXX" ,Venus
-http://181.13.252.102:8000/play/a033/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Volver
 http://181.13.252.102:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 4  ⭐" ,Warner Channel HD
@@ -13177,8 +13124,7 @@ http://190.7.19.197:232/play/a01u/index.m3u8
 http://190.7.19.197:232/play/a03y/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Paramount HD
 http://190.7.19.197:232/play/a052/index.m3u8
-#EXTINF:-1 group-title="XXX",Playboy
-http://190.7.19.197:232/play/a056/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",RAI Italia
@@ -13193,8 +13139,7 @@ http://190.7.19.197:232/play/a01k/index.m3u8
 http://190.7.19.197:232/play/a08x/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Rural
 http://190.7.19.197:232/play/a04j/index.m3u8
-#EXTINF:-1 group-title="XXX",Sextreme
-http://190.7.19.197:232/play/a058/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Sony HD
 http://190.7.19.197:232/play/a01g/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Sony Movies HD
@@ -13243,8 +13188,7 @@ http://190.7.19.197:232/play/a00z/index.m3u8
 http://190.7.19.197:232/play/a04a/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Universal HD
 http://190.7.19.197:232/play/a03u/index.m3u8
-#EXTINF:-1 group-title="XXX",Venus
-http://190.7.19.197:232/play/a057/index.m3u8
+
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Volver
 http://190.7.19.197:232/play/a048/index.m3u8
 #EXTINF:-1 group-title="⭐ ASTRA 6 ⭐",Warner Channel HD
@@ -13257,6 +13201,45 @@ http://190.7.19.197:232/play/a01h/index.m3u8
 
 
 
+
+
+
+############################################################################################################################
+
+
+###############   XXX              ####################
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/628.png" group-title="xxx",SEXTREME
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eeKO4OxYlYu2ZvnlOgzUNA","kid":"lb1kInrPRY2veIb4A9Apjg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/114.png" group-title="xxx",PLAYBOY
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9gigrHA8+q+UQldNmiuH+w","kid":"hXfYHq8zQ22fHkgjYGhafA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png" group-title="xxx",VENUS
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bdlz2YeRUSDlZ4gPUKQirw","kid":"NCN9KuZoTuegEfW5x8Q+bQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd
+
+
+
+
+
+
+
+
+
+##################################################################################################################################################
 
 
 
