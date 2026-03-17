@@ -18044,3 +18044,165 @@ https://FinRoku
 
 
 
+
+
+##################################################################################################
+
+
+#####################################################################################################
+
+
+
+
+
+
+
+#############################    ARG-MARZO       ######################
+
+
+
+
+
+
+
+
+######################     https://raw.githubusercontent.com/migsoft/migsoft.github.io/refs/heads/main/playlist.m3u    ############
+
+
+
+
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="ARG-MARZO",El Trece
+http://181.209.37.74:8001/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-publica-ar.png" group-title="ARG-MARZO",TV Pública
+http://181.209.37.74:8001/play/a095/index.m3u8
+
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/america-tv-ar.png" group-title="ARG-MARZO",América TV
+http://181.209.37.74:8001/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ARG-MARZO" user-agent="iPhone",TN
+http://181.209.37.74:8001/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARG-MARZO",Telefe
+http://181.209.37.74:8001/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a24-ar.png" group-title="ARG-MARZO",A24
+http://181.209.37.74:8001/play/a05u/index.m3u8
+
+
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/c5n-ar.png" group-title="ARG-MARZO",C5N
+http://181.209.37.74:8001/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lnplus-ar.png" group-title="ARG-MARZO",LN+
+http://181.209.37.74:8001/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cronica-tv-ar.png" group-title="ARG-MARZO",Crónica TV
+http://181.209.37.74:8001/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/el-nueve-ar.png" group-title="ARG-MARZO",El Nueve
+http://181.209.37.74:8001/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARG-MARZO",Net TV HD
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARG-MARZO",Net TV SD1
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARG-MARZO",Net TV FHD
+https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-tv-ar.png" group-title="ARG-MARZO",Net TV SD2
+https://pantera1-100gb-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ARG-MARZO",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/encuentro-ar.png" group-title="ARG-MARZO",Encuentro
+http://138.121.114.91:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deportv-ar.png" group-title="ARG-MARZO",DeporTV
+http://181.209.37.74:8001/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="ARG-MARZO",Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Cd893-arg-sat.png" group-title="ARG-MARZO",Argentinísima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="Telpin.ar" tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ARG-MARZO",Telpin HD
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1188692864_b1344100_sleng.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="ARG-MARZO",TNT Sports 
+http://181.209.125.236:10000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="ARG-MARZO",TYC Sports HD
+http://181.209.125.236:10000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="ARG-MARZO",ESPN
+http://181.209.125.236:10000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="ARG-MARZO",ESPN 2
+http://181.209.125.236:10000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="ARG-MARZO",ESPN 3
+http://181.209.125.236:10000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="ARG-MARZO",ESPN 4
+http://181.209.125.236:10000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="ARG-MARZO",ESPN 5
+http://200.229.147.142:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ARG-MARZO",ESPN 6
+http://200.229.147.142:8000/play/a05r/index.m3u8
+
+
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://iili.io/JKrJQV9.png" group-title="ARG-MARZO",ESPN Premium
+http://181.209.125.236:10000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="1605dtv.ar" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",FOX Sports
+http://181.209.125.236:10000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="606dtv.ar" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
+http://181.209.125.236:10000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="607dtv.ar" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
+http://181.209.125.236:10000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
+http://177.10.184.193:8000/play/a0e1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
+http://fivetv.org:25461/live/Eduardo*/Eduardo**/120317.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="ARG-MARZO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN (México)
+http://200.229.147.142:8000/play/a096/index.m3u8
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" group-title="ARG-MARZO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",beIN SPORTS XTRA
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="ARG-MARZO" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN SPORTS XTRA ñ
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="ARG-MARZO" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
