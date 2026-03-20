@@ -843,6 +843,102 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd
 
 
 
+
+
+
+
+#################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: group-title="ADULTO" , 1444 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1444.m3u8
+#EXTINF: group-title="ADULTO" , 1445 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1445.m3u8
+#EXTINF: group-title="ADULTO" , 1446 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1446.m3u8
+#EXTINF: group-title="ADULTO" , 1447 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1447.m3u8
+#EXTINF: group-title="ADULTO" , 1448 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1448.m3u8
+#EXTINF: group-title="ADULTO" , 1449 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1449.m3u8
+#EXTINF: group-title="ADULTO" , 1450 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1450.m3u8
+#EXTINF: group-title="ADULTO" , 1451 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1451.m3u8
+#EXTINF: group-title="ADULTO" , 1452 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1452.m3u8
+#EXTINF: group-title="ADULTO" , 1453 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1453.m3u8
+#EXTINF: group-title="ADULTO" , 1454 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1454.m3u8
+#EXTINF: group-title="ADULTO" , 1455 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1455.m3u8
+#EXTINF: group-title="ADULTO" , 1456 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1456.m3u8
+#EXTINF: group-title="ADULTO" , 1457 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1457.m3u8
+#EXTINF: group-title="ADULTO" , 1458 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1458.m3u8
+#EXTINF: group-title="ADULTO" , 1459 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1459.m3u8
+#EXTINF: group-title="ADULTO" , 1460 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1460.m3u8
+#EXTINF: group-title="ADULTO" , 1461 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1461.m3u8
+#EXTINF: group-title="ADULTO" , 1462 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1462.m3u8
+#EXTINF: group-title="ADULTO" , 1463 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1463.m3u8
+#EXTINF: group-title="ADULTO" , 1464 XXX
+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1464.m3u8
+#EXTINF: group-title="ADULTO", 1465 XXX
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1465.m3u8
+#EXTINF: group-title="ADULTO" , 1466 XXX
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1466.m3u8
+#EXTINF: group-title="ADULTO" , 1467 XXX
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1467.m3u8
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWFKyX/52687301125549.png" group-title="Eventos Flow HD" ch-number="4" type="channel",FLOW SPORTS
@@ -17263,7 +17359,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 
 
-##########################     "⭐ ALTERNATIVOS 4 ⭐"     ####################################
+##########################     "⭐ ALTERNATIVOS 4 ⭐""     ####################################
 
 
 
@@ -17271,8 +17367,6 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 
 ####################   https://raw.githubusercontent.com/12iptvok/12iptvok/refs/heads/main/tvlive
-
-
 
 
 
@@ -17403,7 +17497,20 @@ http://181.13.252.102:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://iili.io/JKgUzJf.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Canal Cocina
 http://ip.euvip.link:8080//live/okn320/Cxz6Yn8DM7/171761.ts
 
+#EXTINF:-1 tvg-id="Hola TV" tvg-logo="https://iili.io/JKggfmQ.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Hola TV
+http://45.5.116.228:8000/play/a0hx/index.m3u8
 
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.postimg.cc/dtz4wRXz/las-estrellas.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-logo="https://i.postimg.cc/RZ622hNN/canal-extremadura.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Canal Extremadura
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/1tSGgLsP/love-the-planet.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV Saber Mas" tvg-logo="https://i.postimg.cc/wvMMLZWy/freetv-sabermas.png" group-title="⭐ ALTERNATIVOS 4 ⭐",FreeTV Saber Mas
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-logo="https://iili.io/JKgLVPp.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Star Channel
 http://181.209.37.74:8001/play/a087/index.m3u8
@@ -17442,22 +17549,22 @@ https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olym
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46748.ts
 
 #EXTINF:-1 tvg-id="TyC Sports B" tvg-logo="https://iili.io/JKrHXh7.png" group-title="⭐ ALTERNATIVOS 4 ⭐",TyC Sports B
-http://nxt.plus:8080/live/batusaix/javier/270167.ts
+http://181.13.252.102:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium A" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="⭐ ALTERNATIVOS 4 ⭐",TNT Sports Premium A
-http://nxt.plus:8080/live/batusaix/javier/25121.ts
+http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium B" tvg-logo="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png" group-title="⭐ ALTERNATIVOS 4 ⭐",TNT Sports Premium B
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/46744.ts
+http://nxt.plus:8080/live/batusaix/javier/25121.ts
 
 #EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN Premium A
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
+http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://i.postimg.cc/MG9tgJrh/espn-premium.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN Premium B
-http://kstv.us:8080/live/GX0PjEapsX/5128860596/46728.ts
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
 
 #EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN A
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47111.ts
+http://190.108.89.228:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="⭐ ALTERNATIVOS 4 ⭐",ESPN B
 http://nxt.plus:8080/live/batusaix/javier/16497.ts
@@ -17472,7 +17579,7 @@ http://45.5.151.147:8000/play/a00j/index.m3u8
 http://45.5.151.147:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://iili.io/JKrdrqF.png" group-title="⭐ ALTERNATIVOS 4 ⭐",FOX Sports
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/47117.ts
+http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTV Sports A" tvg-logo="https://i.postimg.cc/R0xX4jQq/direct-tv.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DIRECTV Sports A
 http://nxt.plus:8080/live/batusaix/javier/270169.ts
@@ -17481,16 +17588,31 @@ http://nxt.plus:8080/live/batusaix/javier/270169.ts
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="Eventos A" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Eventos A
-https://rci1w.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=2832b2c1096e66830f2c55d41cb42892a81db549-e6-1773405807-1773351807
+https://xky9q.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=890a4980d84fa8162873840045d4aec6d17c0fc3-43-1773666989-1773612989
 
 #EXTINF:-1 tvg-id="Eventos B" tvg-logo="https://i.postimg.cc/zfz3XzdG/eventos.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Eventos B
-https://bgfuzq.fubohd.com/tntsports/mono.m3u8?token=559e257a5ba79f3dcdb79cbb432db365e8b9f34e-c5-1773377938-1773359938
+https://bgfuzq.fubohd.com/tntsports/mono.m3u8?token=a15ea238fc08ec61a7161eb97b18d1bcd55a7156-b0-1773639147-1773621147
 
+#EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Radio M2O
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Retro Plus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1047798552.m3u8
 
+#EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="⭐ ALTERNATIVOS 4 ⭐",El Canal de la Musica
+https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="RockTV" tvg-logo="https://i.postimg.cc/pTh69HVy/rocktv.png" group-title="⭐ ALTERNATIVOS 4 ⭐",RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="⭐ ALTERNATIVOS 4 ⭐",TopTV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
 
+#EXTINF:-1 tvg-id="Vclassic TV" tvg-logo="https://i.ibb.co/Jqq4Z79/vclassictv.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Vclassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
@@ -18541,6 +18663,34 @@ http://190.110.254.29:8000/play/a05n/index.m3u8
 
 
 
+##############################################################################
+
+
+
+#############################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Canal+ F1 HD" tvg-logo="https://static.wikia.nocookie.net/f1wikia/images/e/e6/Canal.png" group-title="⏩ ZONA | FORMULA 1 ⏪",[FR] Canal+ F1 HD
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/125373.ts
+#EXTINF:-1 tvg-id="" tvg-name="D@ZN M+® F1 4K™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",D@ZN M+® F1 4K™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/125366.ts
+#EXTINF:-1 tvg-id="" tvg-name="D@ZN M+® F1™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",D@ZN M+® F1™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/125364.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | *D@ZN* F1 HD™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",ES | *D@ZN* F1 HD™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/144057.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="D@ZN M+®  F1™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",D@ZN M+®  F1™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/125363.ts
+#EXTINF:-1 tvg-id="" tvg-name="D@ZN M+® F1 FHD™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",D@ZN M+® F1 FHD™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/125365.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="*°°D@ZŃ* F1 HD™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",*°°D@ZŃ* F1 HD™
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/110220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ll°D∆ZŃ*+ F1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="⏩ ZONA | FORMULA 1 ⏪",ll°D∆ZŃ*+ F1 FHD
+http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/110221.ts
 
 
 
@@ -18550,12 +18700,247 @@ http://190.110.254.29:8000/play/a05n/index.m3u8
 
 
 
+########################################################
+
+
+
+################################################################
 
 
 
 
 
 
+
+######https://raw.githubusercontent.com/futbolparaguayotv/futbolparaguayotv/refs/heads/main/2.m3u
+
+
+
+
+
+#EXTM3U
+#EXTINF: group-title="TV SAO" , TELEFE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+#EXTINF: group-title="TV SAO" , EL TRECE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+
+#EXTINF: group-title="TV SAO" , 24H
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/4.m3u8
+#EXTINF: group-title="TV SAO" , A&E
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
+#EXTINF: group-title="TV SAO" , A24
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
+
+#EXTINF: group-title="TV SAO" , TN 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/55.m3u8
+
+#EXTINF: group-title="TV SAO" , CANAL 26
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
+#EXTINF: group-title="TV SAO" , ABC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF: group-title="TV SAO" , ADULT SWIM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
+
+#EXTINF: group-title="TV SAO" , AXN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF: group-title="TV SAO" , BABY TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
+
+#EXTINF: group-title="TV SAO" , 13
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF: group-title="TV SAO" , CINE FAMILIAR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+#EXTINF: group-title="TV SAO" , CINE HISPANO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+#EXTINF: group-title="TV SAO" , CINE PREMIUM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+#EXTINF: group-title="TV SAO" , CINE CANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF: group-title="TV SAO" , CNN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/18.m3u8
+#EXTINF: group-title="TV SAO" , DHE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
+#EXTINF: group-title="TV SAO" , DISCOVERY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+
+
+#EXTINF: group-title="TV SAO" , H&H
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF: group-title="TV SAO" , HTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
+#EXTINF: group-title="TV SAO" , ID
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+
+#EXTINF: group-title="TV SAO" , DISCOVERY THEATER
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
+#EXTINF: group-title="TV SAO" , 22
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
+
+#EXTINF: group-title="TV SAO" , ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF: group-title="TV SAO" , ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF: group-title="TV SAO" , EWTN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/27.m3u8
+#EXTINF: group-title="TV SAO" , 28
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/28.m3u8
+#EXTINF: group-title="TV SAO" , FILM & ARTS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
+#EXTINF: group-title="TV SAO" , HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+#EXTINF: group-title="TV SAO" , HBO FAMILY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+#EXTINF: group-title="TV SAO" , HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+#EXTINF: group-title="TV SAO" , HBO MUNDI
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+#EXTINF: group-title="TV SAO" , HBO SIGNATURE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+#EXTINF: group-title="TV SAO" , HBO EXTREME
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+#EXTINF: group-title="TV SAO" , HBO+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+#EXTINF: group-title="TV SAO" , HISTORY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF: group-title="TV SAO" , AMC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF: group-title="TV SAO" , TVN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/43.m3u8
+#EXTINF: group-title="TV SAO" , A3SERIES
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/44.m3u8
+#EXTINF: group-title="TV SAO" , NATIONAL GEOGRAPHIC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
+#EXTINF: group-title="TV SAO" , NUEVO TIEMPO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/46.m3u8
+#EXTINF: group-title="TV SAO" , PASIONES
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
+#EXTINF: group-title="TV SAO" , RCC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+#EXTINF: group-title="TV SAO" , SONY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF: group-title="TV SAO" , SPACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF: group-title="TV SAO" , STAR CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF: group-title="TV SAO" , STAR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/52.m3u8
+#EXTINF: group-title="TV SAO" , STUDIO UNIVERSAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF: group-title="TV SAO" , TELEMUNDO INTERNACIONAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+
+#EXTINF: group-title="TV SAO" , TNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
+#EXTINF: group-title="TV SAO" , TNT NOVELAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
+
+#EXTINF: group-title="TV SAO" , TV5 MONDE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/59.m3u8
+#EXTINF: group-title="TV SAO" , 60
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
+#EXTINF: group-title="TV SAO" , UNIVERSAL CINEMA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+#EXTINF: group-title="TV SAO" , UNIVERSAL COMEDY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+#EXTINF: group-title="TV SAO" , UNIVERSAL CRIME
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF: group-title="TV SAO" , UNIVERSAL PREMIERE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+#EXTINF: group-title="TV SAO" , UNIVERSAL REALITY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+#EXTINF: group-title="TV SAO" , VENUS MEDIA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF: group-title="TV SAO" , TROPICALIA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF: group-title="TV SAO" , WB TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+
+#EXTINF: group-title="TV SAO" , CARTOONITO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
+#EXTINF: group-title="TV SAO" , NPY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
+#EXTINF: group-title="TV SAO" , 72
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+
+#EXTINF: group-title="TV SAO" , AIRE DIGITAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+#EXTINF: group-title="TV SAO" , TLNOVELAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
+
+
+
+
+
+#EXTINF: group-title="TV SAO" , TRECE (PARAGUAY)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+
+
+#EXTINF: group-title="TV SAO" , 1552 FOX SPORTS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+
+
+#EXTINF: group-title="TV SAO" , TNT SPORTS (PARAGUAY)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF: group-title="TV SAO" , ESPN PREMIUM (SUR)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+
+
+
+#EXTINF: group-title="TV SAO" , ESPN 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF: group-title="TV SAO" , ESPN DISNEY PREMIUM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF: group-title="TV SAO" , ESPN 3
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+#EXTINF: group-title="TV SAO" , ESPN 4
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF: group-title="TV SAO" , ESPN 5
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+
+#EXTINF: group-title="TV SAO" , FREE TV DRAMA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/95.m3u8
+#EXTINF: group-title="TV SAO" ,FREE TV ESTELAR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/96.m3u8
+#EXTINF: group-title="TV SAO" , 100
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
+
+#EXTINF: group-title="TV SAO" , DW
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
+
+#EXTINF: group-title="TV SAO" , FRANCE TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/104.m3u8
+
+
+
+#EXTINF: group-title="TV SAO" , SNT (PARAGUAY)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+#EXTINF: group-title="TV SAO" , DISNEY JR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
+
+#EXTINF: group-title="TV SAO" , PARAGUAY TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+#EXTINF: group-title="TV SAO" , TV CAMARA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+#EXTINF: group-title="TV SAO" , AIRE DIGITAL 19.1
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF: group-title="TV SAO" , LAS ESTRELLAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
+#EXTINF: group-title="TV SAO" , 122
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/122.m3u8
+
+
+#EXTINF: group-title="TV SAO" , CARTOON NET
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1411.m3u8
+#EXTINF: group-title="TV SAO" , VISION MULTIMEDIOS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1413.m3u8
+
+#EXTINF: group-title="TV SAO" , 1441
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1441.m3u8
+#EXTINF: group-title="TV SAO" , SNT 20.1
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1442.m3u8
+#EXTINF: group-title="TV SAO" , 1443
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
 
 
 
